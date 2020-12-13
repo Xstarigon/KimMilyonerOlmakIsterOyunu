@@ -1,0 +1,1 @@
+﻿1;Aşağıdakilerden hangisi bir asal sayıdır?;1;2;3;11;A
